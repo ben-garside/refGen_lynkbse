@@ -1,0 +1,3135 @@
+<?xml version="1.0" ?>
+<references>
+	<item addedOn="2016-03-03">
+		<ref>BS  ISO 23297</ref>
+		<id>30151768U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS  ISO 23297:2008</ref>
+		<id>30151768</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 2A 266 TO 2A 271</ref>
+		<id>30329890U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 2A 266 TO 2A 271:2016</ref>
+		<id>30329890</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 4873:2016</ref>
+		<id>30318435</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 5700:2015</ref>
+		<id>30286922</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 7121-1:2016</ref>
+		<id>30320608</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 7979:2016</ref>
+		<id>30330849</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 8485:2015</ref>
+		<id>30283600</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 8558:2015</ref>
+		<id>30299695</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 8596</ref>
+		<id>30273056U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS 8596:2015</ref>
+		<id>30273056</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN  ISO 14580</ref>
+		<id>30219158U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN  ISO 14580:2011</ref>
+		<id>30219158</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 10139:2016</ref>
+		<id>30286665</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 1096-5</ref>
+		<id>30321556U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 1096-5:2016</ref>
+		<id>30321556</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 1171:2015</ref>
+		<id>30282873</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 12791:2016</ref>
+		<id>30283771</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 12895:2015</ref>
+		<id>30257893</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 12916:2016</ref>
+		<id>30304454</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 13018:2016</ref>
+		<id>30315664</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 13135</ref>
+		<id>30235015U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 13702</ref>
+		<id>30188459U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 13718-2:2015</ref>
+		<id>30266577</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 1381:2016</ref>
+		<id>30297202</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 1382:2016</ref>
+		<id>30297196</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 1383:2016</ref>
+		<id>30297199</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 1420:2016</ref>
+		<id>30298258</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 14508:2016</ref>
+		<id>30179640</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 14516:2015</ref>
+		<id>30289284</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 14531-2</ref>
+		<id>30250647U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 14531-2:2015</ref>
+		<id>30250647</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 14680:2015</ref>
+		<id>30281052</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 14749:2016</ref>
+		<id>30283768</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 1539:2015</ref>
+		<id>30258756</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 15534-6</ref>
+		<id>30294068U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 15534-6:2015</ref>
+		<id>30294068</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 15681</ref>
+		<id>BSEN15681</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 15681-1</ref>
+		<id>30321559U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 15681-1:2016</ref>
+		<id>30321559</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16351</ref>
+		<id>30253103U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16351:2015</ref>
+		<id>30253103</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16404:2016</ref>
+		<id>30317559</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16465</ref>
+		<id>30264393U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16465:2015</ref>
+		<id>30264393</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16523</ref>
+		<id>BSEN16523</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16523-1</ref>
+		<id>30274699U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16523-1:2015</ref>
+		<id>30274699</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16523-2</ref>
+		<id>30281046U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16523-2:2015</ref>
+		<id>30281046</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16698</ref>
+		<id>30291788U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16698:2015</ref>
+		<id>30291788</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16709</ref>
+		<id>30294042U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16709:2015</ref>
+		<id>30294042</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16713</ref>
+		<id>BSEN16713</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16713-1</ref>
+		<id>30294817U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16713-1:2016</ref>
+		<id>30294817</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16713-2</ref>
+		<id>30294820U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16713-2:2016</ref>
+		<id>30294820</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16713-3</ref>
+		<id>30294823U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16713-3:2016</ref>
+		<id>30294823</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16722</ref>
+		<id>30296045U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16722:2015</ref>
+		<id>30296045</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16736</ref>
+		<id>30296917U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16736:2015</ref>
+		<id>30296917</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16747</ref>
+		<id>30299516U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16747:2015</ref>
+		<id>30299516</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16754</ref>
+		<id>30300521U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16754:2016</ref>
+		<id>30300521</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16764</ref>
+		<id>30301572U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16764:2016</ref>
+		<id>30301572</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16804</ref>
+		<id>30312150U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16804:2015</ref>
+		<id>30312150</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16805</ref>
+		<id>30312153U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16805:2015</ref>
+		<id>30312153</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16847</ref>
+		<id>30317855U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 16847:2016</ref>
+		<id>30317855</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 1972:2015</ref>
+		<id>30295256</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4165-001:2015</ref>
+		<id>30317896</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 438-1:2016</ref>
+		<id>30303783</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 438-2:2016</ref>
+		<id>30303795</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 438-3:2016</ref>
+		<id>30303789</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 438-4:2016</ref>
+		<id>30303780</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 438-5:2016</ref>
+		<id>30303786</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 438-6:2016</ref>
+		<id>30303792</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4531-002:2016</ref>
+		<id>30320471</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710</ref>
+		<id>BSEN4710</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-01</ref>
+		<id>30317899U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-01:2015</ref>
+		<id>30317899</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-02</ref>
+		<id>30317902U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-02:2015</ref>
+		<id>30317902</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-03</ref>
+		<id>30317905U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-03:2015</ref>
+		<id>30317905</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-04</ref>
+		<id>30317908U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-04:2015</ref>
+		<id>30317908</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-05</ref>
+		<id>30317911U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-05:2015</ref>
+		<id>30317911</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-06</ref>
+		<id>30317914U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-06:2015</ref>
+		<id>30317914</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-07</ref>
+		<id>30317917U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 4710-07:2015</ref>
+		<id>30317917</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50090-5-3:2016</ref>
+		<id>30331001</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50117-4-2</ref>
+		<id>30296670U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50117-4-2:2015</ref>
+		<id>30296670</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50229:2015</ref>
+		<id>30297708</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50411-3-8:2016</ref>
+		<id>30262210</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50526-3:2016</ref>
+		<id>30247709</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50559:2015</ref>
+		<id>30229518</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50561-3</ref>
+		<id>30281720U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50561-3:2016</ref>
+		<id>30281720</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50629</ref>
+		<id>30293685U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 50629:2015</ref>
+		<id>30293685</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 59</ref>
+		<id>30294071U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 59:2016</ref>
+		<id>30294071</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60068-2-39:2016</ref>
+		<id>30255444</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60076-19</ref>
+		<id>30276330U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60076-19:2015</ref>
+		<id>30276330</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60079-28:2015</ref>
+		<id>30276712</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60127-7:2016</ref>
+		<id>30301134</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60143-3:2015</ref>
+		<id>30300751</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60317-0-4:2016</ref>
+		<id>30296565</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60317-31:2016</ref>
+		<id>30296569</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60317-32:2016</ref>
+		<id>30296577</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60317-33:2016</ref>
+		<id>30296586</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60317-39:2016</ref>
+		<id>30285573</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60317-59</ref>
+		<id>30282497U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60317-59:2016</ref>
+		<id>30282497</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60320-1:2015</ref>
+		<id>30240604</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60335-2-15:2016</ref>
+		<id>30258818</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60335-2-8:2015</ref>
+		<id>30258806</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60534-8-4:2015</ref>
+		<id>30282238</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60599:2016</ref>
+		<id>30285370</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60601-1-2:2015</ref>
+		<id>30159218</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60601-2-8:2015</ref>
+		<id>30182053</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60700-1:2015</ref>
+		<id>30273351</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60966-2-7</ref>
+		<id>30263096U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60966-2-7:2016</ref>
+		<id>30263096</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 60974-6:2016</ref>
+		<id>30299455</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61169-52</ref>
+		<id>30296066U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61169-52:2015</ref>
+		<id>30296066</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61169-53</ref>
+		<id>30311694U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61169-53:2016</ref>
+		<id>30311694</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61175-1</ref>
+		<id>30218692U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61175-1:2015</ref>
+		<id>30218692</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61196-10:2016</ref>
+		<id>30323480</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61300-3-21:2015</ref>
+		<id>30266889</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61340-4-6</ref>
+		<id>30267321U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61340-4-6:2015</ref>
+		<id>30267321</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61340-5-3:2015</ref>
+		<id>30288970</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61375-2-3</ref>
+		<id>30269688U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61375-2-3:2015</ref>
+		<id>30269688</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61754-4-100</ref>
+		<id>30297559U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61754-4-100:2016</ref>
+		<id>30297559</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61800-2:2015</ref>
+		<id>30248786</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61804-3:2015</ref>
+		<id>30266603</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61804-4</ref>
+		<id>30276691U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61804-4:2016</ref>
+		<id>30276691</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61804-5</ref>
+		<id>30266610U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61804-5:2015</ref>
+		<id>30266610</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61987-21</ref>
+		<id>30287721U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61987-21:2016</ref>
+		<id>30287721</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61987-22</ref>
+		<id>30287727U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61987-22:2016</ref>
+		<id>30287727</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61987-23</ref>
+		<id>30287770U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61987-23:2016</ref>
+		<id>30287770</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61987-24</ref>
+		<id>BSEN61987-24</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61987-24-1</ref>
+		<id>30287774U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 61987-24-1:2016</ref>
+		<id>30287774</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62005-9</ref>
+		<id>BSEN62005-9</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62005-9-1</ref>
+		<id>30218818U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62005-9-1:2015</ref>
+		<id>30218818</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62317-5:2015</ref>
+		<id>30280404</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62321</ref>
+		<id>30135477U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62321-6</ref>
+		<id>30241722U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62321-6:2015</ref>
+		<id>30241722</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62680-1-1</ref>
+		<id>30312897U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62680-1-1:2015</ref>
+		<id>30312897</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62680-2-1</ref>
+		<id>30312901U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62680-2-1:2015</ref>
+		<id>30312901</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62753</ref>
+		<id>30271423U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62753:2015</ref>
+		<id>30271423</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62769</ref>
+		<id>BSEN62769</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62769-103</ref>
+		<id>BSEN62769-103</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62769-103-1</ref>
+		<id>30281114U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62769-103-1:2015</ref>
+		<id>30281114</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62769-103-4</ref>
+		<id>30281118U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62769-103-4:2015</ref>
+		<id>30281118</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62838</ref>
+		<id>30281740U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62838:2016</ref>
+		<id>30281740</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62841-2-9</ref>
+		<id>30296689U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62841-2-9:2015</ref>
+		<id>30296689</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62841-3-9</ref>
+		<id>30285524U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62841-3-9:2015</ref>
+		<id>30285524</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62842</ref>
+		<id>30297995U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62842:2015</ref>
+		<id>30297995</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN 62870:2015</ref>
+		<id>30287038</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 10156</ref>
+		<id>30049474U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 10545-14:2015</ref>
+		<id>30277501</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 10650:2015</ref>
+		<id>30284311</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 11665-1</ref>
+		<id>30179538U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 11665-1:2015</ref>
+		<id>30179538</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 11665-3</ref>
+		<id>30186191U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 11665-3:2015</ref>
+		<id>30186191</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 11665-5</ref>
+		<id>30186197U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 11665-5:2015</ref>
+		<id>30186197</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 11665-6</ref>
+		<id>30186200U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 11665-6:2015</ref>
+		<id>30186200</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 11665-7:2015</ref>
+		<id>30186203</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 12460-4</ref>
+		<id>30295964U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 12460-4:2016</ref>
+		<id>30295964</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 12951</ref>
+		<id>30287621U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 12951:2015</ref>
+		<id>30287621</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 13141:2015</ref>
+		<id>30291669</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 13350:2015</ref>
+		<id>30271544</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 13356:2015</ref>
+		<id>30276374</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 13485:2016</ref>
+		<id>30257645</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 13940</ref>
+		<id>30255895U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 13940:2016</ref>
+		<id>30255895</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 14172:2015</ref>
+		<id>30287688</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 14556:2015</ref>
+		<id>30289811</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 15912:2016</ref>
+		<id>30285170</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16230</ref>
+		<id>BSENISO16230</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16230-1</ref>
+		<id>30280566U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16230-1:2015</ref>
+		<id>30280566</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16231-2</ref>
+		<id>30265092U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16231-2:2015</ref>
+		<id>30265092</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16496</ref>
+		<id>30283722U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16496:2016</ref>
+		<id>30283722</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16859</ref>
+		<id>BSENISO16859</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16859-1</ref>
+		<id>30263151U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16859-1:2015</ref>
+		<id>30263151</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16859-2</ref>
+		<id>30263154U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16859-2:2015</ref>
+		<id>30263154</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16859-3</ref>
+		<id>30263157U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 16859-3:2015</ref>
+		<id>30263157</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 17621</ref>
+		<id>30254779U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 17621:2015</ref>
+		<id>30254779</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 17643</ref>
+		<id>30266748U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 17643:2015</ref>
+		<id>30266748</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 17937</ref>
+		<id>30261091U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 17937:2015</ref>
+		<id>30261091</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 18134</ref>
+		<id>BSENISO18134</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 18134-3</ref>
+		<id>30275475U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 18134-3:2015</ref>
+		<id>30275475</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 18743</ref>
+		<id>30276984U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 18743:2015</ref>
+		<id>30276984</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 19009</ref>
+		<id>30285715U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 19009:2015</ref>
+		<id>30285715</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 19353</ref>
+		<id>30257220U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 19353:2016</ref>
+		<id>30257220</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 252</ref>
+		<id>30094006U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 2746</ref>
+		<id>30278234U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 2746:2015</ref>
+		<id>30278234</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 28706-4:2016</ref>
+		<id>30301183</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 28765:2016</ref>
+		<id>30301199</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 361:2015</ref>
+		<id>30319769</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 3691-2</ref>
+		<id>30292474U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 3691-2:2016</ref>
+		<id>30292474</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 389-3:2016</ref>
+		<id>30279049</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 4628-10:2016</ref>
+		<id>30301179</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 4628-1:2016</ref>
+		<id>30289892</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 4628-2:2016</ref>
+		<id>30301159</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 4628-3:2016</ref>
+		<id>30301163</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 4628-4:2016</ref>
+		<id>30301167</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 4628-5:2016</ref>
+		<id>30301171</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 4628-7:2016</ref>
+		<id>30301175</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 4796-1:2016</ref>
+		<id>30283716</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 5223</ref>
+		<id>30322420U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 5223:2015</ref>
+		<id>30322420</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 5402-2</ref>
+		<id>30262947U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 5402-2:2015</ref>
+		<id>30262947</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 5840-1</ref>
+		<id>30270463U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 5840-1:2015</ref>
+		<id>30270463</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 5840-2</ref>
+		<id>30281561U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 5840-2:2015</ref>
+		<id>30281561</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 6218:2015</ref>
+		<id>30293332</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 6926:2016</ref>
+		<id>30275193</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 734:2015</ref>
+		<id>30301350</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 7438:2016</ref>
+		<id>30316722</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 8044:2015</ref>
+		<id>30299353</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 8430</ref>
+		<id>BSENISO8430</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 8430-1</ref>
+		<id>30318807U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 8430-1:2016</ref>
+		<id>30318807</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 8430-2</ref>
+		<id>30318810U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 8430-2:2016</ref>
+		<id>30318810</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 9967:2016</ref>
+		<id>30274127</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS EN ISO 9969:2016</ref>
+		<id>30274130</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS IEC 60846-2:2015</ref>
+		<id>30300827</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS IEC 61196-1-114</ref>
+		<id>30331370U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS IEC 61196-1-114:2015</ref>
+		<id>30331370</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS IEC 62396-1:2016</ref>
+		<id>30324423</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS IEC 62808</ref>
+		<id>30280765U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS IEC 62808:2015</ref>
+		<id>30280765</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS IEC 63003:2015</ref>
+		<id>30327705</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 10041</ref>
+		<id>BSISO10041</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 10094</ref>
+		<id>BSISO10094</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 10619</ref>
+		<id>BSISO10619</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 11093-5:2016</ref>
+		<id>30325720</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 11119</ref>
+		<id>BSISO11119</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 11119-4</ref>
+		<id>30274823U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 11119-4:2016</ref>
+		<id>30274823</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 12261</ref>
+		<id>30300326U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 12261:2016</ref>
+		<id>30300326</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 13373-2:2016</ref>
+		<id>30318254</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 13373-3</ref>
+		<id>30297062U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 13373-3:2015</ref>
+		<id>30297062</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 13381-1:2015</ref>
+		<id>30273219</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 13520</ref>
+		<id>30252122U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 13520:2015</ref>
+		<id>30252122</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 13521</ref>
+		<id>30252125U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 13521:2015</ref>
+		<id>30252125</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 14456</ref>
+		<id>30281579U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 14456:2015</ref>
+		<id>30281579</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 14813-1:2015</ref>
+		<id>30292680</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 14835-1:2016</ref>
+		<id>30332810</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 15968</ref>
+		<id>30301565U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 15968:2016</ref>
+		<id>30301565</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16258</ref>
+		<id>BSISO16258</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16258-1</ref>
+		<id>30231415U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16258-1:2015</ref>
+		<id>30231415</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16258-2</ref>
+		<id>30231418U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16258-2:2015</ref>
+		<id>30231418</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16468:2015</ref>
+		<id>30252137</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16540</ref>
+		<id>30237863U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16540:2015</ref>
+		<id>30237863</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16610</ref>
+		<id>BSISO16610</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16610-30</ref>
+		<id>30273326U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16610-30:2015</ref>
+		<id>30273326</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16679</ref>
+		<id>30280995U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16679:2015</ref>
+		<id>30280995</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16900-10</ref>
+		<id>30266218U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16900-10:2015</ref>
+		<id>30266218</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16900-13</ref>
+		<id>30270493U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16900-13:2015</ref>
+		<id>30270493</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16900-9</ref>
+		<id>30271562U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16900-9:2015</ref>
+		<id>30271562</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16964</ref>
+		<id>30247204U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 16964:2015</ref>
+		<id>30247204</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 17438-1:2016</ref>
+		<id>30294413</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 17464</ref>
+		<id>30258643U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 17464:2016</ref>
+		<id>30258643</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 17966:2016</ref>
+		<id>30257547</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18188</ref>
+		<id>30292692U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18188:2016</ref>
+		<id>30292692</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18385</ref>
+		<id>30289935U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18385:2016</ref>
+		<id>30289935</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18388</ref>
+		<id>30273276U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18388:2016</ref>
+		<id>30273276</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18537</ref>
+		<id>30288010U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18537:2015</ref>
+		<id>30288010</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18871</ref>
+		<id>30301918U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 18871:2015</ref>
+		<id>30301918</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19013-2:2016</ref>
+		<id>30293932</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19027:2016</ref>
+		<id>30301930</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19029</ref>
+		<id>30301933U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19029:2016</ref>
+		<id>30301933</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19050</ref>
+		<id>30293867U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19050:2015</ref>
+		<id>30293867</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19281</ref>
+		<id>30292345U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19281:2016</ref>
+		<id>30292345</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19347</ref>
+		<id>30296858U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19347:2015</ref>
+		<id>30296858</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19429</ref>
+		<id>30297353U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 19429:2015</ref>
+		<id>30297353</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 20618</ref>
+		<id>30321746U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 20618:2015</ref>
+		<id>30321746</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 21538:2016</ref>
+		<id>30335278</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 22201</ref>
+		<id>30146251U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 22917:2016</ref>
+		<id>30314222</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 230-10:2016</ref>
+		<id>30321065</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 23013:2016</ref>
+		<id>30276900</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 23551-8</ref>
+		<id>30313339U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 23551-8:2016</ref>
+		<id>30313339</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 24102</ref>
+		<id>30163319U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 24102-2</ref>
+		<id>30298885U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 24102-2:2015</ref>
+		<id>30298885</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 24155</ref>
+		<id>30293831U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 24155:2016</ref>
+		<id>30293831</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 24617-6</ref>
+		<id>30310629U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 24617-6:2016</ref>
+		<id>30310629</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 30012</ref>
+		<id>30211329U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 30012:2016</ref>
+		<id>30211329</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 4000-1:2015</ref>
+		<id>30292936</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 4568</ref>
+		<id>30099231U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 4568:2006</ref>
+		<id>30099231</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 4939</ref>
+		<id>30276361U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 4939:2016</ref>
+		<id>30276361</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 5074</ref>
+		<id>30282341U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 5074:2015</ref>
+		<id>30282341</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 5611-11</ref>
+		<id>30314944U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 5611-11:2015</ref>
+		<id>30314944</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 6502</ref>
+		<id>30319572U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 6502:2016</ref>
+		<id>30319572</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 6721-10:2015</ref>
+		<id>30284281</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 6892</ref>
+		<id>BSISO6892</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 6892-4</ref>
+		<id>30291307U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 6892-4:2015</ref>
+		<id>30291307</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7216</ref>
+		<id>30304394U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7216:2015</ref>
+		<id>30304394</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7388-3:2016</ref>
+		<id>30323995</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7503</ref>
+		<id>BSISO7503</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7503-1</ref>
+		<id>30274841U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7503-1:2016</ref>
+		<id>30274841</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7503-2</ref>
+		<id>30274826U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7503-2:2016</ref>
+		<id>30274826</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7503-3</ref>
+		<id>30265646U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 7503-3:2016</ref>
+		<id>30265646</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8000</ref>
+		<id>BSISO8000</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8000-8</ref>
+		<id>30281837U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8000-8:2015</ref>
+		<id>30281837</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8267-1:2015</ref>
+		<id>30316699</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8267-2:2015</ref>
+		<id>30316702</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8513:2016</ref>
+		<id>30311298</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8566-2</ref>
+		<id>30327009U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8566-2:2016</ref>
+		<id>30327009</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8600-1:2015</ref>
+		<id>30314294</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 8769:2016</ref>
+		<id>30283704</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 9599</ref>
+		<id>30312484U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 9599:2015</ref>
+		<id>30312484</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO 9926-3:2016</ref>
+		<id>30313866</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 11889-1:2015</ref>
+		<id>30302799</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 11889-2:2015</ref>
+		<id>30302802</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 11889-3:2015</ref>
+		<id>30302805</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 13249-3:2016</ref>
+		<id>30277012</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 14496-22</ref>
+		<id>30310209U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 14496-22:2015</ref>
+		<id>30310209</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 15149-3:2016</ref>
+		<id>30302609</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 15438</ref>
+		<id>30295077U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 15438:2015</ref>
+		<id>30295077</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 15944-2:2015</ref>
+		<id>30292766</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 15944-9</ref>
+		<id>30298721U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 15944-9:2015</ref>
+		<id>30298721</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 17825:2016</ref>
+		<id>30259617</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 18477-6</ref>
+		<id>30311317U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 18477-6:2016</ref>
+		<id>30311317</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 18477-7</ref>
+		<id>30311320U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 18477-7:2016</ref>
+		<id>30311320</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 19770-2:2015</ref>
+		<id>30311274</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 19785-3:2015</ref>
+		<id>30253084</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 20243</ref>
+		<id>30312845U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 20243:2015</ref>
+		<id>30312845</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 24769-61</ref>
+		<id>30282733U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 24769-61:2015</ref>
+		<id>30282733</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 24769-62</ref>
+		<id>30282727U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 24769-62:2015</ref>
+		<id>30282727</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 24770-62</ref>
+		<id>30282730U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 24770-62:2015</ref>
+		<id>30282730</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 27000:2016</ref>
+		<id>30319489</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 27006:2015</ref>
+		<id>30266417</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 30130</ref>
+		<id>30300627U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC 30130:2016</ref>
+		<id>30300627</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC/IEEE 8802-1AX</ref>
+		<id>30326559U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS ISO/IEC/IEEE 8802-1AX:2016</ref>
+		<id>30326559</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>BS SP 122 TO 125:2016</ref>
+		<id>30329892</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>CEN ISO/TR 12489</ref>
+		<id>30260176U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>CEN ISO/TR 8124-8</ref>
+		<id>30327482U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>CEN ISO/TS 12025</ref>
+		<id>30315148U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>CEN ISO/TS 13972</ref>
+		<id>30273450U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>CEN ISO/TS 16791</ref>
+		<id>30244444U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>CEN/TS 16850</ref>
+		<id>30318831U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>CLC/TR 50607-10</ref>
+		<id>30324447U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>DD IEC TS 60695</ref>
+		<id>DDIECTS60695</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>DD IEC TS 60695-7</ref>
+		<id>DDIECTS60695-7</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>DD IEC TS 61400</ref>
+		<id>DDIECTS61400</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>DD ISO/TS 15686</ref>
+		<id>DDISOTS15686</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 1096-5</ref>
+		<id>30321556U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 14531-2</ref>
+		<id>30250647U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 15534-6</ref>
+		<id>30294068U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 15681-1</ref>
+		<id>30321559U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16351</ref>
+		<id>30253103U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16465</ref>
+		<id>30264393U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16523-1</ref>
+		<id>30274699U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16523-2</ref>
+		<id>30281046U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16698</ref>
+		<id>30291788U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16709</ref>
+		<id>30294042U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16713-1</ref>
+		<id>30294817U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16713-2</ref>
+		<id>30294820U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16713-3</ref>
+		<id>30294823U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16722</ref>
+		<id>30296045U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16736</ref>
+		<id>30296917U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16747</ref>
+		<id>30299516U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16754</ref>
+		<id>30300521U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16764</ref>
+		<id>30301572U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16804</ref>
+		<id>30312150U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16805</ref>
+		<id>30312153U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 16847</ref>
+		<id>30317855U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 4710-01</ref>
+		<id>30317899U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 4710-02</ref>
+		<id>30317902U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 4710-03</ref>
+		<id>30317905U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 4710-04</ref>
+		<id>30317908U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 4710-05</ref>
+		<id>30317911U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 4710-06</ref>
+		<id>30317914U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 4710-07</ref>
+		<id>30317917U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 50117-4-2</ref>
+		<id>30296670U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 50561-3</ref>
+		<id>30281720U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 50629</ref>
+		<id>30293685U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 60076-19</ref>
+		<id>30276330U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 60317-59</ref>
+		<id>30282497U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 60966-2-7</ref>
+		<id>30263096U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61169-52</ref>
+		<id>30296066U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61169-53</ref>
+		<id>30311694U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61175-1</ref>
+		<id>30218692U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61340-4-6</ref>
+		<id>30267321U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61375-2-3</ref>
+		<id>30269688U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61754-4-100</ref>
+		<id>30297559U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61784-5-15</ref>
+		<id>30232618U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61804-4</ref>
+		<id>30276691U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61804-5</ref>
+		<id>30266610U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61987-21</ref>
+		<id>30287721U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61987-22</ref>
+		<id>30287727U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61987-23</ref>
+		<id>30287770U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 61987-24-1</ref>
+		<id>30287774U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62005-9-1</ref>
+		<id>30218818U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62321-6</ref>
+		<id>30241722U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62680-1-1</ref>
+		<id>30312897U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62680-2-1</ref>
+		<id>30312901U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62753</ref>
+		<id>30271423U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62769-103-1</ref>
+		<id>30281114U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62769-103-4</ref>
+		<id>30281118U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62838</ref>
+		<id>30281740U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62841-2-9</ref>
+		<id>30296689U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62841-3-9</ref>
+		<id>30285524U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN 62842</ref>
+		<id>30297995U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 11665-1</ref>
+		<id>30179538U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 11665-3</ref>
+		<id>30186191U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 11665-5</ref>
+		<id>30186197U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 11665-6</ref>
+		<id>30186200U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 12460-4</ref>
+		<id>30295964U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 12951</ref>
+		<id>30287621U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 13940</ref>
+		<id>30255895U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 16230-1</ref>
+		<id>30280566U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 16231-2</ref>
+		<id>30265092U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 16496</ref>
+		<id>30283722U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 16859-1</ref>
+		<id>30263151U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 16859-2</ref>
+		<id>30263154U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 16859-3</ref>
+		<id>30263157U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 17621</ref>
+		<id>30254779U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 17643</ref>
+		<id>30266748U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 17937</ref>
+		<id>30261091U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 18134-3</ref>
+		<id>30275475U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 18743</ref>
+		<id>30276984U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 19009</ref>
+		<id>30285715U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 19353</ref>
+		<id>30257220U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 2746</ref>
+		<id>30278234U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 3691-2</ref>
+		<id>30292474U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 5223</ref>
+		<id>30322420U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 5402-2</ref>
+		<id>30262947U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 5840-1</ref>
+		<id>30270463U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 5840-2</ref>
+		<id>30281561U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 8430-1</ref>
+		<id>30318807U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>EN ISO 8430-2</ref>
+		<id>30318810U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 60317-59</ref>
+		<id>30282497U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 60966-2-7</ref>
+		<id>30263096U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61169-52</ref>
+		<id>30296066U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61169-53</ref>
+		<id>30311694U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61175-1</ref>
+		<id>30218692U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61196-1-114</ref>
+		<id>30331370U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61375-2-3</ref>
+		<id>30269688U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61754-4-100</ref>
+		<id>30297559U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61804-4</ref>
+		<id>30276691U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61804-5</ref>
+		<id>30266610U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61987-21</ref>
+		<id>30287721U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61987-22</ref>
+		<id>30287727U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61987-23</ref>
+		<id>30287770U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 61987-24-1</ref>
+		<id>30287774U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62005-9-1</ref>
+		<id>30218818U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62321-6</ref>
+		<id>30241722U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62680-1-1</ref>
+		<id>30312897U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62680-2-1</ref>
+		<id>30312901U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62753</ref>
+		<id>30271423U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62769-103-1</ref>
+		<id>30281114U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62769-103-4</ref>
+		<id>30281118U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62808</ref>
+		<id>30280765U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62838</ref>
+		<id>30281740U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC 62842</ref>
+		<id>30297995U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC TR 61282-14</ref>
+		<id>30318625U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC TR 62977-3-2</ref>
+		<id>30319944U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC/PAS 63023</ref>
+		<id>30329198U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC/TR 61282-14</ref>
+		<id>30318625U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC/TR 62614-2</ref>
+		<id>30295720U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC/TR 62977-3-2</ref>
+		<id>30319944U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC/TS 61968-14</ref>
+		<id>30297424U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC/TS 62789</ref>
+		<id>30276675U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>IEC/TS 62941</ref>
+		<id>30312887U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 11119-4</ref>
+		<id>30274823U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 12460-4</ref>
+		<id>30295964U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 12951</ref>
+		<id>30287621U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 13373-3</ref>
+		<id>30297062U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 13520</ref>
+		<id>30252122U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 13521</ref>
+		<id>30252125U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 13940</ref>
+		<id>30255895U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 14456</ref>
+		<id>30281579U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 15968</ref>
+		<id>30301565U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16230-1</ref>
+		<id>30280566U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16231-2</ref>
+		<id>30265092U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16258-1</ref>
+		<id>30231415U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16258-2</ref>
+		<id>30231418U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16496</ref>
+		<id>30283722U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16540</ref>
+		<id>30237863U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16610-30</ref>
+		<id>30273326U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16679</ref>
+		<id>30280995U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16859-1</ref>
+		<id>30263151U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16859-2</ref>
+		<id>30263154U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16859-3</ref>
+		<id>30263157U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16900-10</ref>
+		<id>30266218U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16900-13</ref>
+		<id>30270493U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16900-9</ref>
+		<id>30271562U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 16964</ref>
+		<id>30247204U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 17464</ref>
+		<id>30258643U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 17621</ref>
+		<id>30254779U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 17643</ref>
+		<id>30266748U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 17937</ref>
+		<id>30261091U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 18134-3</ref>
+		<id>30275475U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 18188</ref>
+		<id>30292692U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 18385</ref>
+		<id>30289935U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 18388</ref>
+		<id>30273276U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 18537</ref>
+		<id>30288010U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 18743</ref>
+		<id>30276984U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 18871</ref>
+		<id>30301918U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 19009</ref>
+		<id>30285715U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 19029</ref>
+		<id>30301933U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 19050</ref>
+		<id>30293867U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 19281</ref>
+		<id>30292345U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 19347</ref>
+		<id>30296858U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 19353</ref>
+		<id>30257220U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 19429</ref>
+		<id>30297353U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 20618</ref>
+		<id>30321746U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 23551-8</ref>
+		<id>30313339U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 24102-2</ref>
+		<id>30298885U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 24155</ref>
+		<id>30293831U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 24617-6</ref>
+		<id>30310629U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 30012</ref>
+		<id>30211329U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 3691-2</ref>
+		<id>30292474U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 4568</ref>
+		<id>30099231U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 5402-2</ref>
+		<id>30262947U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 5611-11</ref>
+		<id>30314944U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 5840-1</ref>
+		<id>30270463U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 5840-2</ref>
+		<id>30281561U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 6502</ref>
+		<id>30319572U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 6892-4</ref>
+		<id>30291307U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 7216</ref>
+		<id>30304394U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 749</ref>
+		<id>00082760U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 7503-1</ref>
+		<id>30274841U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 7503-2</ref>
+		<id>30274826U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 7503-3</ref>
+		<id>30265646U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 8000-8</ref>
+		<id>30281837U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 8566-2</ref>
+		<id>30327009U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO 9599</ref>
+		<id>30312484U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC 14496-22</ref>
+		<id>30310209U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC 15944-9</ref>
+		<id>30298721U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC 18477-6</ref>
+		<id>30311317U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC 18477-7</ref>
+		<id>30311320U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC 20243</ref>
+		<id>30312845U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC 24769-61</ref>
+		<id>30282733U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC 24769-62</ref>
+		<id>30282727U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC 24770-62</ref>
+		<id>30282730U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC 30130</ref>
+		<id>30300627U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC TR 29156</ref>
+		<id>30337010U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC TS 19217</ref>
+		<id>30334145U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC TS 19571</ref>
+		<id>30325965U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC TS 20027</ref>
+		<id>30310224U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC TS 30103</ref>
+		<id>30260429U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/IEC/IEEE 8802-1AX</ref>
+		<id>30326559U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TR 18146</ref>
+		<id>30313606U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TR 18336</ref>
+		<id>30266289U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TR 18486</ref>
+		<id>30280596U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 13399-204</ref>
+		<id>30289111U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 13399-303</ref>
+		<id>30333422U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 13399-304</ref>
+		<id>30333420U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 13399-307</ref>
+		<id>30319451U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 13399-308</ref>
+		<id>30333232U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 13972</ref>
+		<id>30273450U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 17307</ref>
+		<id>30316705U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 17975</ref>
+		<id>30266983U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 18344</ref>
+		<id>30321989U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 18684</ref>
+		<id>30286009U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 19022</ref>
+		<id>30298897U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 19709-2</ref>
+		<id>30313961U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 22318</ref>
+		<id>30299880U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>ISO/TS 3550-3</ref>
+		<id>30299422U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PAS 24:2016</ref>
+		<id>30330078</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD 855468</ref>
+		<id>30316210U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD 855468:2015</ref>
+		<id>30316210</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TR 12489</ref>
+		<id>30260176U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TR 12489:2016</ref>
+		<id>30260176</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TR 8124</ref>
+		<id>PDCENISOTR8124</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TR 8124-8</ref>
+		<id>30327482U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TR 8124-8:2016</ref>
+		<id>30327482</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TS 12025</ref>
+		<id>30315148U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TS 12025:2015</ref>
+		<id>30315148</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TS 13972</ref>
+		<id>30273450U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TS 13972:2015</ref>
+		<id>30273450</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TS 16791</ref>
+		<id>30244444U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN ISO/TS 16791:2015</ref>
+		<id>30244444</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN/TS 15398</ref>
+		<id>30325182U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN/TS 15398:2016</ref>
+		<id>30325182</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN/TS 16850</ref>
+		<id>30318831U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CEN/TS 16850:2015</ref>
+		<id>30318831</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CISPR/TR 16</ref>
+		<id>PDCISPRTR16</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CLC/TR 50607</ref>
+		<id>PDCLCTR50607</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CLC/TR 50607-10</ref>
+		<id>30324447U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CLC/TR 50607-10:2015</ref>
+		<id>30324447</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD CLC/TR 61804</ref>
+		<id>PDCLCTR61804</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/PAS 63023</ref>
+		<id>30329198U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/PAS 63023:2016</ref>
+		<id>30329198</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 60878</ref>
+		<id>02919952U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 60878:2003</ref>
+		<id>02919952</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 60878:2015</ref>
+		<id>30298804</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 61282-14</ref>
+		<id>30318625U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 61282-14:2016</ref>
+		<id>30318625</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 61832</ref>
+		<id>30316835U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 61832:2015</ref>
+		<id>30316835</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62474-1:2015</ref>
+		<id>30321629</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62614</ref>
+		<id>PDIECTR62614</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62614-2</ref>
+		<id>30295720U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62614-2:2015</ref>
+		<id>30295720</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62617:2015</ref>
+		<id>30328913</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62627-01:2016</ref>
+		<id>30319039</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62977</ref>
+		<id>PDIECTR62977</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62977-3</ref>
+		<id>PDIECTR62977-3</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62977-3-2</ref>
+		<id>30319944U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 62977-3-2:2016</ref>
+		<id>30319944</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 63017:2015</ref>
+		<id>30328101</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TR 63018:2015</ref>
+		<id>30328103</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 61968</ref>
+		<id>PDIECTS61968</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 61968-14</ref>
+		<id>30297424U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 61968-14:2015</ref>
+		<id>30297424</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62257-2:2015</ref>
+		<id>30321868</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62257-3:2015</ref>
+		<id>30321870</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62257-4:2015</ref>
+		<id>30321872</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62257-5:2015</ref>
+		<id>30321874</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62789</ref>
+		<id>30276675U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62789:2014</ref>
+		<id>30276675</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62871-1:2015</ref>
+		<id>30312873</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62872:2015</ref>
+		<id>30298362</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62941</ref>
+		<id>30312887U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD IEC/TS 62941:2016</ref>
+		<id>30312887</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TR 29156</ref>
+		<id>30337010U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TR 29156:2015</ref>
+		<id>30337010</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TS 19217</ref>
+		<id>30334145U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TS 19217:2015</ref>
+		<id>30334145</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TS 19571</ref>
+		<id>30325965U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TS 19571:2016</ref>
+		<id>30325965</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TS 20027</ref>
+		<id>30310224U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TS 20027:2015</ref>
+		<id>30310224</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TS 30103</ref>
+		<id>30260429U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/IEC TS 30103:2015</ref>
+		<id>30260429</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TR 18146</ref>
+		<id>30313606U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TR 18146:2015</ref>
+		<id>30313606</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TR 18336</ref>
+		<id>30266289U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TR 18336:2016</ref>
+		<id>30266289</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TR 18486</ref>
+		<id>30280596U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TR 18486:2016</ref>
+		<id>30280596</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-204</ref>
+		<id>30289111U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-204:2016</ref>
+		<id>30289111</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-303</ref>
+		<id>30333422U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-303:2016</ref>
+		<id>30333422</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-304</ref>
+		<id>30333420U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-304:2016</ref>
+		<id>30333420</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-307</ref>
+		<id>30319451U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-307:2016</ref>
+		<id>30319451</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-308</ref>
+		<id>30333232U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 13399-308:2016</ref>
+		<id>30333232</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 14837-32:2015</ref>
+		<id>30288008</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 17307</ref>
+		<id>30316705U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 17307:2016</ref>
+		<id>30316705</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 17975</ref>
+		<id>30266983U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 17975:2015</ref>
+		<id>30266983</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 18344</ref>
+		<id>30321989U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 18344:2016</ref>
+		<id>30321989</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 18684</ref>
+		<id>30286009U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 18684:2015</ref>
+		<id>30286009</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 19022</ref>
+		<id>30298897U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 19022:2016</ref>
+		<id>30298897</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 19709</ref>
+		<id>PDISOTS19709</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 19709-2</ref>
+		<id>30313961U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 19709-2:2016</ref>
+		<id>30313961</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 22318</ref>
+		<id>30299880U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 22318:2015</ref>
+		<id>30299880</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 3550</ref>
+		<id>PDISOTS3550</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 3550-3</ref>
+		<id>30299422U</id>
+	</item>
+	<item addedOn="2016-03-03">
+		<ref>PD ISO/TS 3550-3:2015</ref>
+		<id>30299422</id>
+	</item>
+</references>
